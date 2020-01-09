@@ -115,3 +115,7 @@ See [Managing Service Brokers](http://docs.cloudfoundry.org/services/managing-se
 
 
 [Cloud Foundary Tutorial](https://fabianlee.org/2017/11/16/cloudfoundry-persisting-spring-music-data-using-postgres-service-part-2/)
+
+[Cloud Foundary Tutorial 1](https://dzone.com/articles/using-postgresql-with-php-in-cloud-foundry)
+
+[Cloud Foundary Tutorial 2](https://docs.cloudfoundry.org/devguide/deploy-apps/ssh-services.html)
