@@ -120,4 +120,4 @@ See [Managing Service Brokers](http://docs.cloudfoundry.org/services/managing-se
 
 [Cloud Foundary Tutorial 2](https://docs.cloudfoundry.org/devguide/deploy-apps/ssh-services.html)
 
-[Cloud Foundary Tutorial 2](https://spring.io/blog/2011/08/30/using-postgres-on-cloud-foundry/)
+[Cloud Foundary Tutorial 3](https://spring.io/blog/2011/08/30/using-postgres-on-cloud-foundry/)
